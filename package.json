@@ -1,0 +1,27 @@
+{
+  "name": "proxymania",
+  "version": "1.0.0",
+  "description": "API for proxymania.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxymania"
+  ],
+  "author": "BadVolt",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanMMM/proxymania.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IvanMMM/proxymania/issues"
+  },
+  "homepage": "https://github.com/IvanMMM/proxymania#readme"
+}
